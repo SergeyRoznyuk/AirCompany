@@ -1,0 +1,6 @@
+D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\bin\Debug\AirCompany.exe.config
+D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\obj\Debug\AirCompany.csprojResolveAssemblyReference.cache
+D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\bin\Debug\AirCompany.exe
+D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\bin\Debug\AirCompany.pdb
+D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\obj\Debug\AirCompany.exe
+D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\obj\Debug\AirCompany.pdb
