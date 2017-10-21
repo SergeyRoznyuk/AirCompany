@@ -4,3 +4,9 @@ D:\Учёба\ШАГ\Программирование\Проекты по С#\Ai
 D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\bin\Debug\AirCompany.pdb
 D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\obj\Debug\AirCompany.exe
 D:\Учёба\ШАГ\Программирование\Проекты по С#\AirCompany\AirCompany\AirCompany\obj\Debug\AirCompany.pdb
+D:\Users\101-11\Documents\GitHub_Sergey\AirCompany\AirCompany\bin\Debug\AirCompany.exe.config
+D:\Users\101-11\Documents\GitHub_Sergey\AirCompany\AirCompany\obj\Debug\AirCompany.exe
+D:\Users\101-11\Documents\GitHub_Sergey\AirCompany\AirCompany\obj\Debug\AirCompany.pdb
+D:\Users\101-11\Documents\GitHub_Sergey\AirCompany\AirCompany\bin\Debug\AirCompany.exe
+D:\Users\101-11\Documents\GitHub_Sergey\AirCompany\AirCompany\bin\Debug\AirCompany.pdb
+D:\Users\101-11\Documents\GitHub_Sergey\AirCompany\AirCompany\obj\Debug\AirCompany.csprojResolveAssemblyReference.cache

@@ -105,9 +105,19 @@ namespace AirCompany
             return Altitude -= increment;
         }
 
+        protected virtual float ForsageStep()
+        {
+            return 2.0F;
+        }
+
         public int SetAltitude(int targetAltitude)
         {
             int tmp=0;
+            float forsage_step = 1;
+            if(ForsageOn == "On")
+            {
+                forsage_step = ForsageStep();
+            }
             if (AutoPilotOn == "Off")
             {
                 if(targetAltitude>0)
@@ -145,13 +155,13 @@ namespace AirCompany
                 while (Altitude < tmp)
                 {
                     System.Threading.Thread.Sleep(1000);
-                    if ((tmp - Altitude)<(ForsageOn=="On"?(_altitudeIncrement*2):_altitudeIncrement))
+                    if ((tmp - Altitude)<(_altitudeIncrement* forsage_step))
                     {
                         Climb(tmp - Altitude);
                     }
                     else
                     {
-                        Climb(ForsageOn == "On" ? (_altitudeIncrement * 2) : _altitudeIncrement);
+                        Climb((int)(_altitudeIncrement * forsage_step));
                     }
                     Console.WriteLine("Altitude {0} km",Altitude);
                 }

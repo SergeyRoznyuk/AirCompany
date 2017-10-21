@@ -32,7 +32,7 @@ namespace AirCompany
         {
             int choice=0;
             int value = 0;
-            Airplane airplane = new Airplane(140, 2.26F, 1000);
+            HeirAirplane airplane = new HeirAirplane(140, 2.26F, 1000);
             do
             {
                 Console.Clear();
